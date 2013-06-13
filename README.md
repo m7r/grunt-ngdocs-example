@@ -7,3 +7,6 @@
 ## Build
 
 Run `grunt ngdocs` and open docs/index.html in your Browser.
+
+### Hint
+For a working edit in plunkr/jsfiddle the docs must be served with a http server.
