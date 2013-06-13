@@ -1,0 +1,9 @@
+{
+  "name": "grunt-ngdocs-example",
+  "version": "0.0.0",
+  "description": "Basic example for grunt-ngdocs",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-ngdocs": "~0.1.1"
+  }
+}
