@@ -8,7 +8,8 @@ module.exports = function (grunt) {
     ngdocs: {
       options: {
         scripts: ['angular.js', '../src.js'],
-        html5Mode: false
+        html5Mode: false,
+        editExample: false
       },
       all: ['src.js']
     },
