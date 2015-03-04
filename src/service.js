@@ -4,7 +4,6 @@
  * @ngdoc service
  * @name rfx.rest
  * @description
- * # rest
  * Service to talk with backend api.
  */
 angular.module('rfx')
