@@ -10,7 +10,7 @@ module.exports = function (grunt) {
         scripts: ['angular.js', '../src.js'],
         html5Mode: false
       },
-      all: ['src.js']
+      all: ['src/*.js']
     },
     connect: {
       options: {
