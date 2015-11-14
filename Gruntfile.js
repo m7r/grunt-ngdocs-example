@@ -7,7 +7,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     ngdocs: {
       options: {
-        scripts: ['angular.js', '../src.js'],
+        scripts: ['angular.js', '../src/directive.js', '../src/service.js'],
         html5Mode: false
       },
       all: ['src/*.js']
