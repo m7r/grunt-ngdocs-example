@@ -4,7 +4,7 @@
  * @ngdoc controller
  * @name rfx.controller:RestController
  * @description
- * This is a controller using the {@link rfx.rest rest} service.
+ * This is a controller which uses the {@link rfx.rest rest} service.
  */
 angular.module('rfx')
-  .controller('MainController', ['rest', function (rest) {}]);
+  .controller('RestController', ['rest', function (rest) {}]);
